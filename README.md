@@ -1,6 +1,6 @@
 # Sales_Insight_Dasboard
 
-Overview
+## Overview
 The Sales Insight Dashboard provides comprehensive visualizations and insights into the sales and profit trends across various categories and geographies. This tool is designed to help stakeholders quickly assess sales performance and profitability, aiding in data-driven decision-making.
 
 Features
