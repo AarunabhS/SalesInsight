@@ -3,7 +3,7 @@
 ## Overview
 The Sales Insight Dashboard provides comprehensive visualizations and insights into the sales and profit trends across various categories and geographies. This tool is designed to help stakeholders quickly assess sales performance and profitability, aiding in data-driven decision-making.
 
-Features
+## Features
 Total Profit by Month and Category: Displays the monthly profit categorized by different product segments for both the US and CA regions.
 Total Sales by Month and Category: Shows the total sales volume across various product categories on a monthly basis.
 Percentage of Sales by Product Groups: Breaks down sales percentages by different product groups to highlight top-performing segments.
@@ -23,14 +23,14 @@ Interpret Insights: Analyze the visualizations to derive actionable insights int
 Intended Audience
 This dashboard is designed for sales managers, financial analysts, and business executives who need to monitor and analyze sales and profit metrics regularly.
 
-Requirements
+## Requirements
 Compatible BI tool (e.g., Tableau, Power BI) or spreadsheet software for viewing and interacting with the dashboard.
 Data updated regularly to ensure accurate and relevant insights.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or additional features you would like to see.
 
-Contact
-For any inquiries or support, please contact your-email@example.com.
+## Contact
+For any inquiries or support, please contact arunabhosom@gmail.com.
